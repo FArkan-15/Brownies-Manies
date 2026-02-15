@@ -31,8 +31,8 @@ The purpose of this project is to practice basic web development skills by build
 </a>
 </p>
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS 
 
 ---
 
